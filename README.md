@@ -20,10 +20,11 @@ A skill is a complete unit that includes:
 5. Iterate or extend
 
 ## Goals of This Repo
-1 Build reusable LLM capabilities
-2. Improve prompt design through iteration
-3. Develop evaluation methods (LLM-as-a-judge)
-4. Create a personal playbook for applied AI
-5. Work in Progress
+
+- Build reusable LLM capabilities
+- Improve prompt design through iteration
+- Develop evaluation methods (LLM-as-a-judge)
+- Create a personal playbook for applied AI
+-  Work in Progress
 
 _This repository is actively evolving:_
